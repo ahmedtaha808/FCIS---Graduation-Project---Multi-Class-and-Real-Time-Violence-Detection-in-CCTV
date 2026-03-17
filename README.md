@@ -2,24 +2,18 @@
 
 ## Summary
 
----
 ## Academic Information
 
----
 ## Table of Contents
 
----
 ## Installation and Environment Setup
 
----
 ## Problem Introduction
 
----
 ## Problem Description
 
 Given Training Dataset  
 
----
 ## Problem Requirements
 
 - Dataset Requirements
@@ -66,20 +60,19 @@ Given Training Dataset
         - Short video clip of the event for Evidence 
         - Confidence Score (%)
 
----
 ## System Architecture and Design 
 
----
+
 ## Input
 
----
+
 ## Output
 
----
+
 ## Algorithms
 
----
+
 ## Evaluation Metrics / Performance
 
----
+
 ## References and Academic Papers
